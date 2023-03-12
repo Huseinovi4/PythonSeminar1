@@ -9,6 +9,6 @@ n = int(input("число n: "))
 m = int(input("число m: "))
 k = int(input("количество долек k: "))
 if k < n*m and ((k % n == 0) or (k % m ==0)):
-    print("Yes")
+    print("Да")
 else:
-    print("No")
+    print("Нет")

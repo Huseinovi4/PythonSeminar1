@@ -23,6 +23,6 @@ num1 = int(numbers[0])+int(numbers[1])+int(numbers[2])
 num2 = int(numbers[3])+int(numbers[4])+int(numbers[5])
 
 if num1 == num2:
-    print("Yes")
+    print("Да")
 else:
-    print("No")
+    print("Нет")
